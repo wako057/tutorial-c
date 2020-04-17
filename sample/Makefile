@@ -5,7 +5,7 @@
 CC=gcc
 CFLAGS=-W -Wall -ansi -pedantic
 LDFLAGS=
-NAME=first 
+NAME=sample
 
 SRC=src/main.c \
     src/my_putchar.c
